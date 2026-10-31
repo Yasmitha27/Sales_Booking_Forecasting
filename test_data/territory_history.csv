@@ -1,0 +1,16 @@
+Entity_Type,Entity_ID,Old_Territory,New_Territory,Effective_Quarter
+SalesRep,R0041,Central,North,5
+SalesRep,R0014,West,Central,6
+SalesRep,R0024,North,South,8
+SalesRep,R0072,South,Central,3
+SalesRep,R0002,North,South,6
+SalesRep,R0060,West,East,6
+SalesRep,R0020,South,West,7
+SalesRep,R0083,East,Central,6
+SalesRep,R0078,South,Central,6
+SalesRep,R0066,South,North,5
+Account,A00081,South,East,8
+Account,A00084,West,East,6
+Account,A00073,West,Central,6
+Account,A00080,East,North,8
+Account,A00017,North,West,6

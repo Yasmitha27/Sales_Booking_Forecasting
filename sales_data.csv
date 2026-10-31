@@ -1,0 +1,5 @@
+Sales_Rep,Customer,Amount,Stage,Actual_Sales
+Ravi,ABC Company,100000,Negotiation,80000
+Priya,XYZ Company,200000,Proposal,90000
+Arun,DEF Company,300000,Qualification,0
+Kiran,GHI Company,150000,Prospecting,0
